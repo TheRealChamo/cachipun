@@ -22,6 +22,8 @@ function Cachipun()
     document.write("Bienvenido a Cachipún contra la máquina<br><br>");
     var CantidadJugadas = prompt("¿Cuantas veces deseas jugar?");
 
+    var historial = document.getElementById("historial");
+    
     while (n < CantidadJugadas) {
         n++;
 

@@ -1,0 +1,22 @@
+body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+  }
+  
+  .contenedor {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  .desafio {
+    text-align: center;
+  }
+  
+  .titulo {
+    font-size: 30px;
+  }
+  
+  .botones {
+    margin-top: 20px;
+  }
+  
